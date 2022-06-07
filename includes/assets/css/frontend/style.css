@@ -1,0 +1,152 @@
+.currency{display:none}
+.cmiDonForm .box_paiment {
+    width: 50%;
+    display: inline-block;
+    vertical-align: top;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+    position: relative;
+    padding: 0 20px 20px 20px;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    font-size: 14px !important;
+	    font-family: "Roboto", sans-serif;
+}
+.cmiDonForm .box_paiment p {
+	margin: 10px 0;
+    padding: 0;
+    font-size: 13px;
+    line-height: normal;
+}
+.box_paiment input.autres_montant,
+.box_paiment input.classicInput {
+    display: block;
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    padding: 0 8px;
+    color: #525252;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+	    border: none;
+    border-bottom: 1px solid #9e9e9e;
+	height: 2rem;
+    width: 80%;
+    font-size: 1rem;
+    padding: 20px;
+    box-shadow: none;
+}
+.cmiDonForm {
+	background: #f1f1f1;
+    max-width: 100% !important;
+    width: 100% !important;
+    padding: 20px 0;
+    border-radius: 10px;
+}
+.box_paiment .classicInput_list {
+	display: block;
+    display: block;
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px !important;
+    border-radius: 5px !important;
+    padding: 0 8px;
+    color: #525252;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    border: 1px solid #f2f2f2;
+    border-radius: 2px;
+    height: 2rem;
+    width: 80%;
+    border-bottom: 1px solid #9e9e9e;
+}
+.spacer_input {
+    display: block;
+    margin: 0;
+    padding: 0;
+    height: 10px;
+    clear: both;
+}
+ input.cmiedon_cmibuttonimage {
+    width: 25%;
+	transition: background 150ms ease-in-out;
+    background: #0073aa;
+    border: none;
+    border-radius: 5px;
+    box-sizing: border-box;
+    color: #fff;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: 0.88889em;
+    font-weight: 700;
+    line-height: 1.2;
+    outline: none;
+    padding: 0.76rem 1rem;
+    text-decoration: none;
+    vertical-align: bottom;
+}
+.separator_detail_don {
+    width: 100%;
+    height: 1px;
+    display: block;
+    margin: 0;
+    padding: 0;
+    background: #dcd8d8;
+    margin: 10px 0;
+}
+.subDonConfirm {
+	display: inline-block;
+    margin: 0;
+    padding: 0;
+    background: #008092;
+    padding: 10px 20px;
+    color: #fff;
+    border: none;
+    outline: none;
+    margin: 20px 0 10px 0;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -webkit-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    -moz-border-radius: 5px 5px 0 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px 5px 0 5px;
+}
+.backDonConfirm {
+	display: inline-block;
+    margin: 0;
+    padding: 0;
+    background: #0073aa;
+    color: #fff;
+    border: none;
+    outline: none;
+    margin: 20px 10px 10px 10px;
+    -moz-transition: all 0.5s ease;
+    -o-transition: all 0.5s ease;
+    -webkit-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+    -moz-box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    -moz-border-radius: 5px 5px 5px 0;
+    -webkit-border-radius: 5px;
+    border-radius: 5px 5px 5px 0;
+}
+.backDonConfirm a {
+    color: #fff;
+    padding: 7px 20px;
+    display: block;
+	text-decoration: none !important;
+    font-weight: bold;
+}

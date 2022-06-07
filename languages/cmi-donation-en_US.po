@@ -1,0 +1,159 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CMI Donation\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-14 14:36+0000\n"
+"PO-Revision-Date: 2020-02-17 07:55+0000\n"
+"Last-Translator: iaziz@cmi.co.ma <iaziz@cmi.co.ma>\n"
+"Language-Team: English (United States)\n"
+"Language: en_US\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#. Description of the plugin
+msgid ""
+"A simple and easy way to create, manage and collecting donations through  "
+"CMI Payment Provider on your website."
+msgstr ""
+"A simple and easy way to create, manage and collecting donations through  "
+"CMI Payment Provider on your website."
+
+#: includes/public_shortcode.php:394
+msgid "Adresse"
+msgstr "Address"
+
+#: includes/private_functions.php:313
+msgid "Alerte de sécurité. La signature numérique n'est pas valide"
+msgstr "Security alert. Digital signature is not valid"
+
+#: includes/private_functions.php:167 includes/public_ipn.php:73
+msgid "Anonyme"
+msgstr "Anonymous"
+
+#: includes/public_shortcode.php:376
+msgid "Autre montant"
+msgstr "Other amount"
+
+#: includes/public_shortcode.php:397
+msgid "Choisir"
+msgstr "To choose"
+
+#: includes/public_shortcode.php:357
+msgid "Choisissez le montant que vous souhaitez donner"
+msgstr "Choose the amount you wish to donate"
+
+#: includes/public_shortcode.php:344
+msgid "Choisissez votre devise"
+msgstr "Choose your currency"
+
+#. Author of the plugin
+msgid "CMI"
+msgstr "CMI"
+
+#. Name of the plugin
+msgid "CMI Donation"
+msgstr "CMI Donation"
+
+#: includes/private_functions.php:306
+msgid "Confirmation de donation"
+msgstr "Donation confirmation"
+
+#: includes/private_functions.php:88
+msgid "Confirmation Don"
+msgstr "Donation confirmation"
+
+#: includes/public_shortcode.php:393 includes/private_functions.php:165
+msgid "E-mail"
+msgstr "Email"
+
+#: includes/private_functions.php:310
+msgid "Echec d’opération"
+msgstr "Operation failure"
+
+#: includes/public_shortcode.php:387
+msgid "Faire un don anonyme"
+msgstr "Make an anonymous donation"
+
+#: includes/public_shortcode.php:386
+msgid "Faire un don nominatif"
+msgstr "Make a nominative donation"
+
+#. Author URI of the plugin
+msgid "http://www.cmi.co.ma/"
+msgstr "http://www.cmi.co.ma/"
+
+#: includes/public_shortcode.php:409
+msgid "J'accepte"
+msgstr "I accept"
+
+#: includes/public_shortcode.php:409
+msgid "les conditions générales de donations"
+msgstr "the general conditions of donations"
+
+#: includes/private_functions.php:307
+msgid "Merci beaucoup pour votre support et donation!"
+msgstr "Thank you very much for your support and donation!"
+
+#: includes/private_functions.php:149
+msgid "MONTANT"
+msgstr "AMOUNT"
+
+#: includes/private_functions.php:153
+msgid "MONTANT A DEBITER"
+msgstr "AMOUNT TO BE CHARGED"
+
+#: includes/private_functions.php:151
+msgid "MONTANT SAISI"
+msgstr "ENTERED AMOUNT"
+
+#: includes/public_shortcode.php:390 includes/private_functions.php:161
+msgid "Nom"
+msgstr "Last Name"
+
+#: includes/public_ipn.php:58
+msgid "Paiement accepté par le CMI"
+msgstr "Payment accepted by CMI"
+
+#: includes/public_shortcode.php:396
+msgid "Pays"
+msgstr "Country"
+
+#: includes/public_shortcode.php:391 includes/private_functions.php:161
+msgid "Prénom"
+msgstr "First Name"
+
+#: includes/public_shortcode.php:378
+msgid "Saisir votre montant"
+msgstr "Enter your amount"
+
+#: includes/public_shortcode.php:384
+msgid "Saisissez vos coordonnées"
+msgstr "Enter your details"
+
+#: includes/public_shortcode.php:392 includes/private_functions.php:163
+msgid "Téléphone"
+msgstr "Phone"
+
+#: includes/public_shortcode.php:395
+msgid "Ville"
+msgstr "City"
+
+#: includes/private_functions.php:147
+msgid "Vos informations de don"
+msgstr "Your donation information"
+
+#: includes/private_functions.php:309
+msgid "Votre don n'a pas pu être effectué. Merci de réessayer"
+msgstr "Your donation could not be made. Please try again"
+
+#: includes/private_functions.php:167
+msgid "VOTRE DON SERA RENDU"
+msgstr "YOUR DONATION WILL BE RETURNED"
+
+#: includes/private_functions.php:203
+msgid "Vous n'avez effectué aucun don"
+msgstr "You have made no donation"
