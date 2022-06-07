@@ -1,0 +1,1142 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: CMI Donation\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-17 10:00+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: includes/public_shortcode.php:344
+msgid "Choisissez votre devise"
+msgstr ""
+
+#: includes/public_shortcode.php:357
+msgid "Choisissez le montant que vous souhaitez donner"
+msgstr ""
+
+#: includes/public_shortcode.php:376
+msgid "Autre montant"
+msgstr ""
+
+#: includes/public_shortcode.php:378
+msgid "Saisir votre montant"
+msgstr ""
+
+#: includes/public_shortcode.php:384
+msgid "Saisissez vos coordonnées"
+msgstr ""
+
+#: includes/public_shortcode.php:386
+msgid "Faire un don nominatif"
+msgstr ""
+
+#: includes/public_shortcode.php:387
+msgid "Faire un don anonyme"
+msgstr ""
+
+#: includes/public_shortcode.php:390 includes/private_functions.php:161
+msgid "Nom"
+msgstr ""
+
+#: includes/public_shortcode.php:391 includes/private_functions.php:161
+msgid "Prénom"
+msgstr ""
+
+#: includes/public_shortcode.php:392 includes/private_functions.php:163
+msgid "Téléphone"
+msgstr ""
+
+#: includes/public_shortcode.php:393 includes/private_functions.php:165
+msgid "E-mail"
+msgstr ""
+
+#: includes/public_shortcode.php:394
+msgid "Adresse"
+msgstr ""
+
+#: includes/public_shortcode.php:395
+msgid "Ville"
+msgstr ""
+
+#: includes/public_shortcode.php:396
+msgid "Pays"
+msgstr ""
+
+#: includes/public_shortcode.php:397
+msgid "Choisir"
+msgstr ""
+
+#: includes/public_shortcode.php:402
+msgid "Afghanistan"
+msgstr ""
+
+#: includes/public_shortcode.php:403
+msgid "Aland Islands"
+msgstr ""
+
+#: includes/public_shortcode.php:404
+msgid "Albania"
+msgstr ""
+
+#: includes/public_shortcode.php:405
+msgid "Algeria"
+msgstr ""
+
+#: includes/public_shortcode.php:406
+msgid "American Samoa"
+msgstr ""
+
+#: includes/public_shortcode.php:407
+msgid "Andorra"
+msgstr ""
+
+#: includes/public_shortcode.php:408
+msgid "Angola"
+msgstr ""
+
+#: includes/public_shortcode.php:409
+msgid "Anguilla"
+msgstr ""
+
+#: includes/public_shortcode.php:410
+msgid "Antarctica"
+msgstr ""
+
+#: includes/public_shortcode.php:411
+msgid "Antigua And Barbuda"
+msgstr ""
+
+#: includes/public_shortcode.php:412
+msgid "Argentina"
+msgstr ""
+
+#: includes/public_shortcode.php:413
+msgid "Armenia"
+msgstr ""
+
+#: includes/public_shortcode.php:414
+msgid "Aruba"
+msgstr ""
+
+#: includes/public_shortcode.php:415
+msgid "Australia"
+msgstr ""
+
+#: includes/public_shortcode.php:416
+msgid "Austria"
+msgstr ""
+
+#: includes/public_shortcode.php:417
+msgid "Azerbaijan"
+msgstr ""
+
+#: includes/public_shortcode.php:418
+msgid "Bahamas"
+msgstr ""
+
+#: includes/public_shortcode.php:419
+msgid "Bahrain"
+msgstr ""
+
+#: includes/public_shortcode.php:420
+msgid "Bangladesh"
+msgstr ""
+
+#: includes/public_shortcode.php:421
+msgid "Barbados"
+msgstr ""
+
+#: includes/public_shortcode.php:422
+msgid "Belarus"
+msgstr ""
+
+#: includes/public_shortcode.php:423
+msgid "Belgium"
+msgstr ""
+
+#: includes/public_shortcode.php:424
+msgid "Belize"
+msgstr ""
+
+#: includes/public_shortcode.php:425
+msgid "Benin"
+msgstr ""
+
+#: includes/public_shortcode.php:426
+msgid "Bermuda"
+msgstr ""
+
+#: includes/public_shortcode.php:427
+msgid "Bhutan"
+msgstr ""
+
+#: includes/public_shortcode.php:428
+msgid "Bolivia"
+msgstr ""
+
+#: includes/public_shortcode.php:429
+msgid "Bosnia And Herzegovina"
+msgstr ""
+
+#: includes/public_shortcode.php:430
+msgid "Botswana"
+msgstr ""
+
+#: includes/public_shortcode.php:431
+msgid "Bouvet Island"
+msgstr ""
+
+#: includes/public_shortcode.php:432
+msgid "Brazil"
+msgstr ""
+
+#: includes/public_shortcode.php:433
+msgid "British Indian Ocean Territory"
+msgstr ""
+
+#: includes/public_shortcode.php:434
+msgid "Brunei Darussalam"
+msgstr ""
+
+#: includes/public_shortcode.php:435
+msgid "Bulgaria"
+msgstr ""
+
+#: includes/public_shortcode.php:436
+msgid "Burkina Faso"
+msgstr ""
+
+#: includes/public_shortcode.php:437
+msgid "Burundi"
+msgstr ""
+
+#: includes/public_shortcode.php:438
+msgid "Cambodia"
+msgstr ""
+
+#: includes/public_shortcode.php:439
+msgid "Cameroon"
+msgstr ""
+
+#: includes/public_shortcode.php:440
+msgid "Canada"
+msgstr ""
+
+#: includes/public_shortcode.php:441
+msgid "Cape Verde"
+msgstr ""
+
+#: includes/public_shortcode.php:442
+msgid "Cayman Islands"
+msgstr ""
+
+#: includes/public_shortcode.php:443
+msgid "Central African Republic"
+msgstr ""
+
+#: includes/public_shortcode.php:444
+msgid "Chad"
+msgstr ""
+
+#: includes/public_shortcode.php:445
+msgid "Chile"
+msgstr ""
+
+#: includes/public_shortcode.php:446
+msgid "China"
+msgstr ""
+
+#: includes/public_shortcode.php:447
+msgid "Christmas Island"
+msgstr ""
+
+#: includes/public_shortcode.php:448
+msgid "Cocos (Keeling) Islands"
+msgstr ""
+
+#: includes/public_shortcode.php:449
+msgid "Colombia"
+msgstr ""
+
+#: includes/public_shortcode.php:450
+msgid "Comoros"
+msgstr ""
+
+#: includes/public_shortcode.php:451
+msgid "Congo"
+msgstr ""
+
+#: includes/public_shortcode.php:452
+msgid "Congo, Democratic Republic"
+msgstr ""
+
+#: includes/public_shortcode.php:453
+msgid "Cook Islands"
+msgstr ""
+
+#: includes/public_shortcode.php:454
+msgid "Costa Rica"
+msgstr ""
+
+#: includes/public_shortcode.php:455
+msgid "Cote D'Ivoire"
+msgstr ""
+
+#: includes/public_shortcode.php:456
+msgid "Croatia"
+msgstr ""
+
+#: includes/public_shortcode.php:457
+msgid "Cuba"
+msgstr ""
+
+#: includes/public_shortcode.php:458
+msgid "Cyprus"
+msgstr ""
+
+#: includes/public_shortcode.php:459
+msgid "Czech Republic"
+msgstr ""
+
+#: includes/public_shortcode.php:460
+msgid "Denmark"
+msgstr ""
+
+#: includes/public_shortcode.php:461
+msgid "Djibouti"
+msgstr ""
+
+#: includes/public_shortcode.php:462
+msgid "Dominica"
+msgstr ""
+
+#: includes/public_shortcode.php:463
+msgid "Dominican Republic"
+msgstr ""
+
+#: includes/public_shortcode.php:464
+msgid "Ecuador"
+msgstr ""
+
+#: includes/public_shortcode.php:465
+msgid "Egypt"
+msgstr ""
+
+#: includes/public_shortcode.php:466
+msgid "El Salvador"
+msgstr ""
+
+#: includes/public_shortcode.php:467
+msgid "Equatorial Guinea"
+msgstr ""
+
+#: includes/public_shortcode.php:468
+msgid "Eritrea"
+msgstr ""
+
+#: includes/public_shortcode.php:469
+msgid "Estonia"
+msgstr ""
+
+#: includes/public_shortcode.php:470
+msgid "Ethiopia"
+msgstr ""
+
+#: includes/public_shortcode.php:471
+msgid "Falkland Islands (Malvinas)"
+msgstr ""
+
+#: includes/public_shortcode.php:472
+msgid "Faroe Islands"
+msgstr ""
+
+#: includes/public_shortcode.php:473
+msgid "Fiji"
+msgstr ""
+
+#: includes/public_shortcode.php:474
+msgid "Finland"
+msgstr ""
+
+#: includes/public_shortcode.php:475
+msgid "France"
+msgstr ""
+
+#: includes/public_shortcode.php:476
+msgid "French Guiana"
+msgstr ""
+
+#: includes/public_shortcode.php:477
+msgid "French Polynesia"
+msgstr ""
+
+#: includes/public_shortcode.php:478
+msgid "French Southern Territories"
+msgstr ""
+
+#: includes/public_shortcode.php:479
+msgid "Gabon"
+msgstr ""
+
+#: includes/public_shortcode.php:480
+msgid "Gambia"
+msgstr ""
+
+#: includes/public_shortcode.php:481
+msgid "Georgia"
+msgstr ""
+
+#: includes/public_shortcode.php:482
+msgid "Germany"
+msgstr ""
+
+#: includes/public_shortcode.php:483
+msgid "Ghana"
+msgstr ""
+
+#: includes/public_shortcode.php:484
+msgid "Gibraltar"
+msgstr ""
+
+#: includes/public_shortcode.php:485
+msgid "Greece"
+msgstr ""
+
+#: includes/public_shortcode.php:486
+msgid "Greenland"
+msgstr ""
+
+#: includes/public_shortcode.php:487
+msgid "Grenada"
+msgstr ""
+
+#: includes/public_shortcode.php:488
+msgid "Guadeloupe"
+msgstr ""
+
+#: includes/public_shortcode.php:489
+msgid "Guam"
+msgstr ""
+
+#: includes/public_shortcode.php:490
+msgid "Guatemala"
+msgstr ""
+
+#: includes/public_shortcode.php:491
+msgid "Guernsey"
+msgstr ""
+
+#: includes/public_shortcode.php:492
+msgid "Guinea"
+msgstr ""
+
+#: includes/public_shortcode.php:493
+msgid "Guinea-Bissau"
+msgstr ""
+
+#: includes/public_shortcode.php:494
+msgid "Guyana"
+msgstr ""
+
+#: includes/public_shortcode.php:495
+msgid "Haiti"
+msgstr ""
+
+#: includes/public_shortcode.php:496
+msgid "Heard Island &amp; Mcdonald Islands"
+msgstr ""
+
+#: includes/public_shortcode.php:497
+msgid "Holy See (Vatican City State)"
+msgstr ""
+
+#: includes/public_shortcode.php:498
+msgid "Honduras"
+msgstr ""
+
+#: includes/public_shortcode.php:499
+msgid "Hong Kong"
+msgstr ""
+
+#: includes/public_shortcode.php:500
+msgid "Hungary"
+msgstr ""
+
+#: includes/public_shortcode.php:501
+msgid "Iceland"
+msgstr ""
+
+#: includes/public_shortcode.php:502
+msgid "India"
+msgstr ""
+
+#: includes/public_shortcode.php:503
+msgid "Indonesia"
+msgstr ""
+
+#: includes/public_shortcode.php:504
+msgid "Iran, Islamic Republic Of"
+msgstr ""
+
+#: includes/public_shortcode.php:505
+msgid "Iraq"
+msgstr ""
+
+#: includes/public_shortcode.php:506
+msgid "Ireland"
+msgstr ""
+
+#: includes/public_shortcode.php:507
+msgid "Isle Of Man"
+msgstr ""
+
+#: includes/public_shortcode.php:508
+msgid "Israel"
+msgstr ""
+
+#: includes/public_shortcode.php:509
+msgid "Italy"
+msgstr ""
+
+#: includes/public_shortcode.php:510
+msgid "Jamaica"
+msgstr ""
+
+#: includes/public_shortcode.php:511
+msgid "Japan"
+msgstr ""
+
+#: includes/public_shortcode.php:512
+msgid "Jersey"
+msgstr ""
+
+#: includes/public_shortcode.php:513
+msgid "Jordan"
+msgstr ""
+
+#: includes/public_shortcode.php:514
+msgid "Kazakhstan"
+msgstr ""
+
+#: includes/public_shortcode.php:515
+msgid "Kenya"
+msgstr ""
+
+#: includes/public_shortcode.php:516
+msgid "Kiribati"
+msgstr ""
+
+#: includes/public_shortcode.php:517
+msgid "Korea"
+msgstr ""
+
+#: includes/public_shortcode.php:518
+msgid "Kuwait"
+msgstr ""
+
+#: includes/public_shortcode.php:519
+msgid "Kyrgyzstan"
+msgstr ""
+
+#: includes/public_shortcode.php:520
+msgid "Lao People's Democratic Republic"
+msgstr ""
+
+#: includes/public_shortcode.php:521
+msgid "Latvia"
+msgstr ""
+
+#: includes/public_shortcode.php:522
+msgid "Lebanon"
+msgstr ""
+
+#: includes/public_shortcode.php:523
+msgid "Lesotho"
+msgstr ""
+
+#: includes/public_shortcode.php:524
+msgid "Liberia"
+msgstr ""
+
+#: includes/public_shortcode.php:525
+msgid "Libyan Arab Jamahiriya"
+msgstr ""
+
+#: includes/public_shortcode.php:526
+msgid "Liechtenstein"
+msgstr ""
+
+#: includes/public_shortcode.php:527
+msgid "Lithuania"
+msgstr ""
+
+#: includes/public_shortcode.php:528
+msgid "Luxembourg"
+msgstr ""
+
+#: includes/public_shortcode.php:529
+msgid "Macao"
+msgstr ""
+
+#: includes/public_shortcode.php:530
+msgid "Macedonia"
+msgstr ""
+
+#: includes/public_shortcode.php:531
+msgid "Madagascar"
+msgstr ""
+
+#: includes/public_shortcode.php:532
+msgid "Malawi"
+msgstr ""
+
+#: includes/public_shortcode.php:533
+msgid "Malaysia"
+msgstr ""
+
+#: includes/public_shortcode.php:534
+msgid "Maldives"
+msgstr ""
+
+#: includes/public_shortcode.php:535
+msgid "Mali"
+msgstr ""
+
+#: includes/public_shortcode.php:536
+msgid "Malta"
+msgstr ""
+
+#: includes/public_shortcode.php:537
+msgid "Marshall Islands"
+msgstr ""
+
+#: includes/public_shortcode.php:538
+msgid "Martinique"
+msgstr ""
+
+#: includes/public_shortcode.php:539
+msgid "Mauritania"
+msgstr ""
+
+#: includes/public_shortcode.php:540
+msgid "Mauritius"
+msgstr ""
+
+#: includes/public_shortcode.php:541
+msgid "Mayotte"
+msgstr ""
+
+#: includes/public_shortcode.php:542
+msgid "Mexico"
+msgstr ""
+
+#: includes/public_shortcode.php:543
+msgid "Micronesia, Federated States Of"
+msgstr ""
+
+#: includes/public_shortcode.php:544
+msgid "Moldova"
+msgstr ""
+
+#: includes/public_shortcode.php:545
+msgid "Monaco"
+msgstr ""
+
+#: includes/public_shortcode.php:546
+msgid "Mongolia"
+msgstr ""
+
+#: includes/public_shortcode.php:547
+msgid "Montenegro"
+msgstr ""
+
+#: includes/public_shortcode.php:548
+msgid "Montserrat"
+msgstr ""
+
+#: includes/public_shortcode.php:549
+msgid "Morocco"
+msgstr ""
+
+#: includes/public_shortcode.php:550
+msgid "Mozambique"
+msgstr ""
+
+#: includes/public_shortcode.php:551
+msgid "Myanmar"
+msgstr ""
+
+#: includes/public_shortcode.php:552
+msgid "Namibia"
+msgstr ""
+
+#: includes/public_shortcode.php:553
+msgid "Nauru"
+msgstr ""
+
+#: includes/public_shortcode.php:554
+msgid "Nepal"
+msgstr ""
+
+#: includes/public_shortcode.php:555
+msgid "Netherlands"
+msgstr ""
+
+#: includes/public_shortcode.php:556
+msgid "Netherlands Antilles"
+msgstr ""
+
+#: includes/public_shortcode.php:557
+msgid "New Caledonia"
+msgstr ""
+
+#: includes/public_shortcode.php:558
+msgid "New Zealand"
+msgstr ""
+
+#: includes/public_shortcode.php:559
+msgid "Nicaragua"
+msgstr ""
+
+#: includes/public_shortcode.php:560
+msgid "Niger"
+msgstr ""
+
+#: includes/public_shortcode.php:561
+msgid "Nigeria"
+msgstr ""
+
+#: includes/public_shortcode.php:562
+msgid "Niue"
+msgstr ""
+
+#: includes/public_shortcode.php:563
+msgid "Norfolk Island"
+msgstr ""
+
+#: includes/public_shortcode.php:564
+msgid "Northern Mariana Islands"
+msgstr ""
+
+#: includes/public_shortcode.php:565
+msgid "Norway"
+msgstr ""
+
+#: includes/public_shortcode.php:566
+msgid "Oman"
+msgstr ""
+
+#: includes/public_shortcode.php:567
+msgid "Pakistan"
+msgstr ""
+
+#: includes/public_shortcode.php:568
+msgid "Palau"
+msgstr ""
+
+#: includes/public_shortcode.php:569
+msgid "Palestinian Territory, Occupied"
+msgstr ""
+
+#: includes/public_shortcode.php:570
+msgid "Panama"
+msgstr ""
+
+#: includes/public_shortcode.php:571
+msgid "Papua New Guinea"
+msgstr ""
+
+#: includes/public_shortcode.php:572
+msgid "Paraguay"
+msgstr ""
+
+#: includes/public_shortcode.php:573
+msgid "Peru"
+msgstr ""
+
+#: includes/public_shortcode.php:574
+msgid "Philippines"
+msgstr ""
+
+#: includes/public_shortcode.php:575
+msgid "Pitcairn"
+msgstr ""
+
+#: includes/public_shortcode.php:576
+msgid "Poland"
+msgstr ""
+
+#: includes/public_shortcode.php:577
+msgid "Portugal"
+msgstr ""
+
+#: includes/public_shortcode.php:578
+msgid "Puerto Rico"
+msgstr ""
+
+#: includes/public_shortcode.php:579
+msgid "Qatar"
+msgstr ""
+
+#: includes/public_shortcode.php:580
+msgid "Reunion"
+msgstr ""
+
+#: includes/public_shortcode.php:581
+msgid "Romania"
+msgstr ""
+
+#: includes/public_shortcode.php:582
+msgid "Russian Federation"
+msgstr ""
+
+#: includes/public_shortcode.php:583
+msgid "Rwanda"
+msgstr ""
+
+#: includes/public_shortcode.php:584
+msgid "Saint Barthelemy"
+msgstr ""
+
+#: includes/public_shortcode.php:585
+msgid "Saint Helena"
+msgstr ""
+
+#: includes/public_shortcode.php:586
+msgid "Saint Kitts And Nevis"
+msgstr ""
+
+#: includes/public_shortcode.php:587
+msgid "Saint Lucia"
+msgstr ""
+
+#: includes/public_shortcode.php:588
+msgid "Saint Martin"
+msgstr ""
+
+#: includes/public_shortcode.php:589
+msgid "Saint Pierre And Miquelon"
+msgstr ""
+
+#: includes/public_shortcode.php:590
+msgid "Saint Vincent And Grenadines"
+msgstr ""
+
+#: includes/public_shortcode.php:591
+msgid "Samoa"
+msgstr ""
+
+#: includes/public_shortcode.php:592
+msgid "San Marino"
+msgstr ""
+
+#: includes/public_shortcode.php:593
+msgid "Sao Tome And Principe"
+msgstr ""
+
+#: includes/public_shortcode.php:594
+msgid "Saudi Arabia"
+msgstr ""
+
+#: includes/public_shortcode.php:595
+msgid "Senegal"
+msgstr ""
+
+#: includes/public_shortcode.php:596
+msgid "Serbia"
+msgstr ""
+
+#: includes/public_shortcode.php:597
+msgid "Seychelles"
+msgstr ""
+
+#: includes/public_shortcode.php:598
+msgid "Sierra Leone"
+msgstr ""
+
+#: includes/public_shortcode.php:599
+msgid "Singapore"
+msgstr ""
+
+#: includes/public_shortcode.php:600
+msgid "Slovakia"
+msgstr ""
+
+#: includes/public_shortcode.php:601
+msgid "Slovenia"
+msgstr ""
+
+#: includes/public_shortcode.php:602
+msgid "Solomon Islands"
+msgstr ""
+
+#: includes/public_shortcode.php:603
+msgid "Somalia"
+msgstr ""
+
+#: includes/public_shortcode.php:604
+msgid "South Africa"
+msgstr ""
+
+#: includes/public_shortcode.php:605
+msgid "South Georgia And Sandwich Isl."
+msgstr ""
+
+#: includes/public_shortcode.php:606
+msgid "Spain"
+msgstr ""
+
+#: includes/public_shortcode.php:607
+msgid "Sri Lanka"
+msgstr ""
+
+#: includes/public_shortcode.php:608
+msgid "Sudan"
+msgstr ""
+
+#: includes/public_shortcode.php:609
+msgid "Suriname"
+msgstr ""
+
+#: includes/public_shortcode.php:610
+msgid "Svalbard And Jan Mayen"
+msgstr ""
+
+#: includes/public_shortcode.php:611
+msgid "Swaziland"
+msgstr ""
+
+#: includes/public_shortcode.php:612
+msgid "Sweden"
+msgstr ""
+
+#: includes/public_shortcode.php:613
+msgid "Switzerland"
+msgstr ""
+
+#: includes/public_shortcode.php:614
+msgid "Syrian Arab Republic"
+msgstr ""
+
+#: includes/public_shortcode.php:615
+msgid "Taiwan"
+msgstr ""
+
+#: includes/public_shortcode.php:616
+msgid "Tajikistan"
+msgstr ""
+
+#: includes/public_shortcode.php:617
+msgid "Tanzania"
+msgstr ""
+
+#: includes/public_shortcode.php:618
+msgid "Thailand"
+msgstr ""
+
+#: includes/public_shortcode.php:619
+msgid "Timor-Leste"
+msgstr ""
+
+#: includes/public_shortcode.php:620
+msgid "Togo"
+msgstr ""
+
+#: includes/public_shortcode.php:621
+msgid "Tokelau"
+msgstr ""
+
+#: includes/public_shortcode.php:622
+msgid "Tonga"
+msgstr ""
+
+#: includes/public_shortcode.php:623
+msgid "Trinidad And Tobago"
+msgstr ""
+
+#: includes/public_shortcode.php:624
+msgid "Tunisia"
+msgstr ""
+
+#: includes/public_shortcode.php:625
+msgid "Turkey"
+msgstr ""
+
+#: includes/public_shortcode.php:626
+msgid "Turkmenistan"
+msgstr ""
+
+#: includes/public_shortcode.php:627
+msgid "Turks And Caicos Islands"
+msgstr ""
+
+#: includes/public_shortcode.php:628
+msgid "Tuvalu"
+msgstr ""
+
+#: includes/public_shortcode.php:629
+msgid "Uganda"
+msgstr ""
+
+#: includes/public_shortcode.php:630
+msgid "Ukraine"
+msgstr ""
+
+#: includes/public_shortcode.php:631
+msgid "United Arab Emirates"
+msgstr ""
+
+#: includes/public_shortcode.php:632
+msgid "United Kingdom"
+msgstr ""
+
+#: includes/public_shortcode.php:633
+msgid "United States"
+msgstr ""
+
+#: includes/public_shortcode.php:634
+msgid "United States Outlying Islands"
+msgstr ""
+
+#: includes/public_shortcode.php:635
+msgid "Uruguay"
+msgstr ""
+
+#: includes/public_shortcode.php:636
+msgid "Uzbekistan"
+msgstr ""
+
+#: includes/public_shortcode.php:637
+msgid "Vanuatu"
+msgstr ""
+
+#: includes/public_shortcode.php:638
+msgid "Venezuela"
+msgstr ""
+
+#: includes/public_shortcode.php:639
+msgid "Viet Nam"
+msgstr ""
+
+#: includes/public_shortcode.php:640
+msgid "Virgin Islands, British"
+msgstr ""
+
+#: includes/public_shortcode.php:641
+msgid "Virgin Islands, U.S."
+msgstr ""
+
+#: includes/public_shortcode.php:642
+msgid "Wallis And Futuna"
+msgstr ""
+
+#: includes/public_shortcode.php:643
+msgid "Western Sahara"
+msgstr ""
+
+#: includes/public_shortcode.php:644
+msgid "Yemen"
+msgstr ""
+
+#: includes/public_shortcode.php:645
+msgid "Zambia"
+msgstr ""
+
+#: includes/public_shortcode.php:646
+msgid "Zimbabwe"
+msgstr ""
+
+#: includes/public_shortcode.php:654
+msgid "J'accepte"
+msgstr ""
+
+#: includes/public_shortcode.php:654
+msgid "les conditions générales de donations"
+msgstr ""
+
+#: includes/public_shortcode.php:669
+msgid "Submit"
+msgstr ""
+
+#: includes/private_functions.php:88
+msgid "Confirmation Don"
+msgstr ""
+
+#: includes/private_functions.php:147
+msgid "Vos informations de don"
+msgstr ""
+
+#: includes/private_functions.php:149
+msgid "MONTANT"
+msgstr ""
+
+#: includes/private_functions.php:151
+msgid "MONTANT SAISI"
+msgstr ""
+
+#: includes/private_functions.php:153
+msgid "MONTANT A DEBITER"
+msgstr ""
+
+#: includes/private_functions.php:167
+msgid "VOTRE DON SERA RENDU"
+msgstr ""
+
+#: includes/private_functions.php:167 includes/public_ipn.php:73
+msgid "Anonyme"
+msgstr ""
+
+#: includes/private_functions.php:203
+msgid "Vous n'avez effectué aucun don"
+msgstr ""
+
+#: includes/private_functions.php:306
+msgid "Confirmation de donation"
+msgstr ""
+
+#: includes/private_functions.php:307
+msgid "Merci beaucoup pour votre support et donation!"
+msgstr ""
+
+#: includes/private_functions.php:309
+msgid "Votre don n'a pas pu être effectué. Merci de réessayer"
+msgstr ""
+
+#: includes/private_functions.php:310
+msgid "Echec d’opération"
+msgstr ""
+
+#: includes/private_functions.php:313
+msgid "Alerte de sécurité. La signature numérique n'est pas valide"
+msgstr ""
+
+#: includes/public_ipn.php:58
+msgid "Paiement accepté par le CMI"
+msgstr ""
+
+#. Name of the plugin
+msgid "CMI Donation"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"A simple and easy way to create, manage and collecting donations through  "
+"CMI Payment Provider on your website."
+msgstr ""
+
+#. Author of the plugin
+msgid "CMI"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.cmi.co.ma/"
+msgstr ""
